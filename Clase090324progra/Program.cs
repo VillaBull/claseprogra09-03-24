@@ -26,3 +26,56 @@ Console.WriteLine("le restamos 4");
 Console.Read();
 
 Console.WriteLine("El número que pensaste es: " + resultadoAdivinado);
+
+Console.WriteLine("Ingrese una frase:");
+string frase = Console.ReadLine();
+
+int numPalabras = palabras(frase);
+int numVocales = ContarVocales(frase);
+
+Console.WriteLine($"Número de palabras en la frase: {numPalabras}");
+Console.WriteLine($"Número de vocales en la frase: {numVocales}");
+
+Console.ReadLine();
+static int palabras(string frase)
+{
+    int contador = 0;
+    int indice = 0;
+
+    while (indice < frase.Length && char.IsWhiteSpace(frase[indice]))
+    {
+        indice++;
+    }
+
+    while (indice < frase.Length)
+    {
+        while (indice < frase.Length && !char.IsWhiteSpace(frase[indice]))
+        {
+            indice++;
+        }
+
+        contador++;
+
+        while (indice < frase.Length && char.IsWhiteSpace(frase[indice]))
+        {
+            indice++;
+        }
+    }
+
+    return contador;
+}
+
+static int ContarVocales(string frase)
+{
+    int contadorVocales = 0;
+
+    foreach (char c in frase)
+    {
+        if ("aeiouAEIOU".IndexOf(c) != -1)
+        {
+            contadorVocales++;
+        }
+    }
+
+    return contadorVocales;
+}
