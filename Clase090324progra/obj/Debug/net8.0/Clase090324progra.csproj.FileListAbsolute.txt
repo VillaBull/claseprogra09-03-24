@@ -1,0 +1,14 @@
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\obj\Debug\net8.0\Clase090324progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\obj\Debug\net8.0\Clase090324progra.AssemblyInfoInputs.cache
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\obj\Debug\net8.0\Clase090324progra.AssemblyInfo.cs
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\obj\Debug\net8.0\Clase090324progra.csproj.CoreCompileInputs.cache
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\bin\Debug\net8.0\Clase090324progra.exe
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\bin\Debug\net8.0\Clase090324progra.deps.json
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\bin\Debug\net8.0\Clase090324progra.runtimeconfig.json
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\bin\Debug\net8.0\Clase090324progra.dll
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\bin\Debug\net8.0\Clase090324progra.pdb
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\obj\Debug\net8.0\Clase090324progra.dll
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\obj\Debug\net8.0\refint\Clase090324progra.dll
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\obj\Debug\net8.0\Clase090324progra.pdb
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\obj\Debug\net8.0\Clase090324progra.genruntimeconfig.cache
+C:\Users\Villa\source\repos\Clase090324progra\Clase090324progra\obj\Debug\net8.0\ref\Clase090324progra.dll
